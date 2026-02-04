@@ -1,0 +1,5 @@
+streamlit>=1.24.0      # O framework Web
+pydicom>=2.4.0         # Leitura DICOM (mantém-se)
+numpy>=1.24.0          # Matemática (mantém-se)
+matplotlib>=3.7.0      # Para renderizar os cortes 2D (fatias)
+Pillow>=9.5.0          # Processamento de imagem básico
